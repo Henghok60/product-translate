@@ -1,0 +1,11 @@
+[2025-02-12T14:28:35.447] INFO: Engine Start: {"args":{},"tab":{"id":338013703,"index":3,"title":"Amazon.com : amazon","url":"https://www.amazon.com/s?k=amazon&adgrpid=159651196451&hvadid=675114638367&hvdev=c&hvlocphy=9198350&hvnetw=g&hvqmt=e&hvrand=568001929302360924&hvtargid=kwd-10573980&hydadcr=2246_13468515&tag=googleglobalp-20&ref=pd_sl_6x2dlxu3zy_e","status":"complete","incognito":false,"groupId":-1,"windowId":338013384}}
+[2025-02-12T14:28:35.453] INFO: NewTab(d6e51074) Start: "No description": {"url":"https://www.amazon.com/s?k=amazon&adgrpid=159651196451&hvadid=675114638367&hvdev=c&hvlocphy=9198350&hvnetw=g&hvqmt=e&hvrand=568001929302360924&hvtargid=kwd-10573980&hydadcr=2246_13468515&tag=googleglobalp-20&ref=pd_sl_6x2dlxu3zy_e","name":"P592","timeout":60,"isActive":true,"isAutoClose":true,"isWaitPageLoad":false}
+[2025-02-12T14:28:35.453] INFO: NewTab(d6e51074) Will open url: https://www.amazon.com/s?k=amazon&adgrpid=159651196451&hvadid=675114638367&hvdev=c&hvlocphy=9198350&hvnetw=g&hvqmt=e&hvrand=568001929302360924&hvtargid=kwd-10573980&hydadcr=2246_13468515&tag=googleglobalp-20&ref=pd_sl_6x2dlxu3zy_e
+[2025-02-12T14:28:36.868] INFO: ScrollPage(b4ce953d) Start: "No description": {"step":1,"type":"bottom","offset":0,"targets":[{"id":"35c5e61a","config":{"mode":"unique","root":""},"selector":"html","attribute":"innerText"}],"interval":1,"stepUnit":"screen"}
+[2025-02-12T14:28:36.868] INFO: ScrollPage(b4ce953d) Will scroll to page bottom: {"id":"35c5e61a","selector":"html"}
+[2025-02-12T14:28:46.188] INFO: ScrollPage(b4ce953d) Ended: {"status":"success","data":{"height":6877}}
+[2025-02-12T14:28:46.337] INFO: NewTab(d6e51074) Ended: {"status":"success"}
+[2025-02-12T14:28:46.362] INFO: WaitUntil(e79c27cf) Start: "No description": {"type":"page","until":"loaded","timeout":20}
+[2025-02-12T14:28:46.374] INFO: WaitUntil(e79c27cf) Ended: {"status":"success","message":"Tab status is complete"}
+[2025-02-12T14:28:47.423] INFO: Total time elapsed: 00:00:11
+[2025-02-12T14:28:47.423] INFO: Engine Stop: {"status":"success"}
